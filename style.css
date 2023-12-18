@@ -210,46 +210,6 @@ letter-spacing: 1.2px;
 line-height: 30px;
 }
 
-.content h1{
-font-size: 50px;
-padding-left: 20px;
-margin-top: 9%;
-letter-spacing: 2px;
-}
-
-.content h2{
-font-size: 50px;
-padding-left: 20px;
-margin-top: 9%;
-letter-spacing: 2px;
-}
-
-.content h11{
-font-size: 50px;
-padding-left: 20px;
-margin-top: 9%;
-letter-spacing: 2px;
-}
-
-.content h12{
-font-size: 50px;
-padding-left: 20px;
-margin-top: 9%;
-letter-spacing: 2px;
-}
-.content h13{
-font-size: 50px;
-padding-left: 20px;
-margin-top: 9%;
-letter-spacing: 2px;
-}
-.content h14{
-font-size: 50px;
-padding-left: 20px;
-margin-top: 9%;
-letter-spacing: 2px;
-}
-
 .content h7{
 font-size: 50px;
 padding-left: 20px;
@@ -272,6 +232,46 @@ letter-spacing: 2px;
 }
 
 .content h10{
+font-size: 50px;
+padding-left: 20px;
+margin-top: 9%;
+letter-spacing: 2px;
+}
+.content h11{
+font-size: 50px;
+padding-left: 20px;
+margin-top: 9%;
+letter-spacing: 2px;
+}
+.content h12{
+font-size: 50px;
+padding-left: 20px;
+margin-top: 9%;
+letter-spacing: 2px;
+}
+
+.content h13{
+font-size: 50px;
+padding-left: 20px;
+margin-top: 9%;
+letter-spacing: 2px;
+}
+
+.content h14{
+font-size: 50px;
+padding-left: 20px;
+margin-top: 9%;
+letter-spacing: 2px;
+}
+
+.content h15{
+font-size: 50px;
+padding-left: 20px;
+margin-top: 9%;
+letter-spacing: 2px;
+}
+
+.content h16{
 font-size: 50px;
 padding-left: 20px;
 margin-top: 9%;
